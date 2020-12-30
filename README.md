@@ -7,3 +7,7 @@ Resources for the Triangle Devs Slack #codex channel
 - [Exercises for Programmers](https://pragprog.com/titles/bhwb/exercises-for-programmers/)
 - [Exercism.io](https://exercism.io/)
 - [Project Euler](https://projecteuler.net/)
+
+## Member Repositories
+
+- [Brian Adkins](https://github.com/lojic/sample_code/tree/master/triangledevs-codex)
